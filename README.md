@@ -1,3 +1,1 @@
-# mandelbrot-set
-
 An example on how to draw Mandelbrot Set using Java
